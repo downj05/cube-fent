@@ -4,11 +4,14 @@ Cube Fent now uses Modpack Update Checker
 Check back in this screen for future updates!
 
 Changes in this update:
-- Sanity mod
-+ Mahou Tsukai
-+ FTB Chunks
-+ Journey Map
-+ JADE / HWYLA + Compatability mods
-+ Missile Mod (need to find a good one)
-+ Furniture mods (find some)
-+ Musket mod
+- Sanity mod - Annoying and not needed
++ Mahou Tsukai - Magic mod with special effects
++ FTB Chunks - Protect your builds
++ Missile Mod - Blow up your friends
++ Furniture Mod - Decorate your house
++ Musket Mod - Primitive gun mod
+
+Quality of life:
++ Journey Map - Map + waypoint mod
++ JADE + Compatability mods - See what block/entity you're looking at
++ Better Compatability Checker - Verify you and the server have the same mods
