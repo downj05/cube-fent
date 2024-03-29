@@ -11,4 +11,4 @@ Changes in this update:
 + JADE / HWYLA + Compatability mods
 + Missile Mod (need to find a good one)
 + Furniture mods (find some)
-+ Musket mod (https://modrinth.com/mod/simple-musket)
++ Musket mod

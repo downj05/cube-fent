@@ -10,6 +10,15 @@
                     "generic": "https://drive.google.com/file/d/1gtlTvXPNghOjnPKAYnQpRzOFLZdET88Q/view?usp=sharing"
                 }
             }
-          }
+        },
+        {
+            "id": "1.1.0",
+            "releasedAt": 1711683206,
+            "promotions": {
+                "downloads": {
+                    "generic": "https://the-drone-project.neocities.org"
+                }
+            }
+        }
     ]
   }
