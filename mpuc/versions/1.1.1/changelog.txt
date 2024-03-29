@@ -1,0 +1,11 @@
+Hotfix:
+The previous version (1.1.0) included the Visuality mod, which was crashing clients upon joining the server.
+This version (1.1.1) removes the Visuality mod.
+
+Some other quality of life mods are re-added
+
+Changes:
+- Visuality mod
++ Appleskin
++ 3D Skins
++ Default Options
