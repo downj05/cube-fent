@@ -1,0 +1,15 @@
+{
+    "schemaVersion": 1,
+    "hotfixesFormat": null,
+    "versions": [
+        {
+            "id": "1.0.2",
+            "releasedAt": 1710335211,
+            "promotions": {
+                "downloads": {
+                    "generic": "https://drive.google.com/file/d/1gtlTvXPNghOjnPKAYnQpRzOFLZdET88Q/view?usp=sharing"
+                }
+            }
+          }
+    ]
+  }

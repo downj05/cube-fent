@@ -1,0 +1,14 @@
+The W32 Update!
+
+Cube Fent now uses Modpack Update Checker
+Check back in this screen for future updates!
+
+Changes in this update:
+- Sanity mod
++ Mahou Tsukai
++ FTB Chunks
++ Journey Map
++ JADE / HWYLA + Compatability mods
++ Missile Mod (need to find a good one)
++ Furniture mods (find some)
++ Musket mod (https://modrinth.com/mod/simple-musket)
